@@ -4,6 +4,7 @@
 	"keywords": ["emailchef"],
 	"license": "MIT",
 	"type": "project",
+	"version": "1.0.0",
   "require": {
     "nategood/httpful": "*"
   },
